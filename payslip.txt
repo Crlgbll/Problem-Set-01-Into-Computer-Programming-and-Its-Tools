@@ -1,0 +1,13 @@
+==============PAYSLIP==============
+======EMPLOYEE INFORMATION=======
+Employee Name: Carlo Gaballo
+Rendered Hours: 56.0
+Rate per Hour: 20.0
+Gross Salary: 1,120.00
+=============DEDUCTIONS===========
+SSS: 5.00
+PhilHealth: 3.00
+Loans: 0.00
+Total Deductions: 8.00
+==========NET SALARY===============
+Php. 1,112.00
